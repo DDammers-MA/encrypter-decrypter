@@ -1,0 +1,22 @@
+body {
+    font-size: 2rem;
+    font-family: sans-serif;
+    min-height: 100vh;
+    background: linear-gradient(to bottom right, #FFB84C, #A459D1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.main {
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+    padding: 4rem;
+    gap: 2rem;
+    flex-wrap: wrap;
+
+}

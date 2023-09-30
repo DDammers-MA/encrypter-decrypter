@@ -1,0 +1,13 @@
+{
+    "data": {
+        "encrypt":{
+            "value": "",
+            "placholder": "Type something here to Encrypt!"
+        }, 
+        "decrypt":{
+            "value": "",
+            "placholder": "past somthing here to Decrypt!"
+
+        } 
+    }
+}
